@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyaRana19
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on exciting projects
+- 👀 
+- 🌱 
+- 💞️ 
 - 
 
 <!---
