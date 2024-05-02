@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @PriyaRana19
-- 👀 
-- 🌱 
-- 💞️ 
-- 
+
 
 <!---
 PriyaRana19/PriyaRana19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
